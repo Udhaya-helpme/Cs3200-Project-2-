@@ -1,0 +1,1101 @@
+[
+  {
+    "user_id": 1,
+    "applied_date": "2026-01-18T08:00:00.000Z",
+    "current_status": "Offer",
+    "is_active": true,
+    "notes": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "company": {
+      "name": "Flashset",
+      "industry": "Technology",
+      "hq_location": "Zheleznogorsk-Ilimskiy"
+    },
+    "job_posting": {
+      "title": "Developer II",
+      "type": "co-op",
+      "pay_per_hour": 26,
+      "is_remote": false,
+      "job_board": {
+        "name": "LinkedIn",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2026-01-18T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2026-01-25T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2026-02-01T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2026-02-08T08:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2026-02-01T08:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": {
+      "compensation": 26,
+      "deadline": "2026-02-17T08:00:00.000Z",
+      "notes": "Generated test offer"
+    },
+    "contacts": [],
+    "tags": [
+      "co-op",
+      "Technology"
+    ]
+  },
+  {
+    "user_id": 2,
+    "applied_date": "2025-06-02T07:00:00.000Z",
+    "current_status": "Interviewing",
+    "is_active": false,
+    "notes": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+    "company": {
+      "name": "Fivechat",
+      "industry": "Retail",
+      "hq_location": "Nenagh"
+    },
+    "job_posting": {
+      "title": "Senior Editor",
+      "type": "co-op",
+      "pay_per_hour": 9,
+      "is_remote": true,
+      "job_board": {
+        "name": "LinkedIn",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-06-02T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-06-09T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-06-16T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-06-16T07:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "co-op",
+      "Retail"
+    ]
+  },
+  {
+    "user_id": 3,
+    "applied_date": "2025-09-10T07:00:00.000Z",
+    "current_status": "Rejected",
+    "is_active": true,
+    "notes": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus.",
+    "company": {
+      "name": "Gigaclub",
+      "industry": "Technology",
+      "hq_location": "Dongjiang Matoukou"
+    },
+    "job_posting": {
+      "title": "Registered Nurse",
+      "type": "internship",
+      "pay_per_hour": 82,
+      "is_remote": false,
+      "job_board": {
+        "name": "Handshake",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-09-10T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-09-17T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-09-24T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2025-10-01T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Rejected",
+        "changed_at": "2025-10-08T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "internship",
+      "Technology"
+    ]
+  },
+  {
+    "user_id": 4,
+    "applied_date": "2025-07-17T07:00:00.000Z",
+    "current_status": "Withdrawn",
+    "is_active": false,
+    "notes": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "company": {
+      "name": "Meedoo",
+      "industry": "AI Research",
+      "hq_location": "Bárrio"
+    },
+    "job_posting": {
+      "title": "Administrative Assistant IV",
+      "type": "full-time",
+      "pay_per_hour": 58,
+      "is_remote": false,
+      "job_board": {
+        "name": "Handshake",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-07-17T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-07-24T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-07-31T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2025-08-07T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Rejected",
+        "changed_at": "2025-08-14T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Withdrawn",
+        "changed_at": "2025-08-21T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "full-time",
+      "AI Research"
+    ]
+  },
+  {
+    "user_id": 5,
+    "applied_date": "2025-04-20T07:00:00.000Z",
+    "current_status": "Withdrawn",
+    "is_active": true,
+    "notes": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "company": {
+      "name": "Jabberbean",
+      "industry": "Finance",
+      "hq_location": "Dongyangzhen"
+    },
+    "job_posting": {
+      "title": "Financial Advisor",
+      "type": "co-op",
+      "pay_per_hour": 30,
+      "is_remote": true,
+      "job_board": {
+        "name": "Handshake",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-04-20T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-04-27T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-05-04T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2025-05-11T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Rejected",
+        "changed_at": "2025-05-18T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Withdrawn",
+        "changed_at": "2025-05-25T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "co-op",
+      "Finance"
+    ]
+  },
+  {
+    "user_id": 6,
+    "applied_date": "2025-04-14T07:00:00.000Z",
+    "current_status": "OA",
+    "is_active": true,
+    "notes": "Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "company": {
+      "name": "Jaxnation",
+      "industry": "Technology",
+      "hq_location": "Petiga"
+    },
+    "job_posting": {
+      "title": "Structural Analysis Engineer",
+      "type": "full-time",
+      "pay_per_hour": 12,
+      "is_remote": false,
+      "job_board": {
+        "name": "LinkedIn",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-04-14T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-04-21T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "full-time",
+      "Technology"
+    ]
+  },
+  {
+    "user_id": 7,
+    "applied_date": "2026-02-05T08:00:00.000Z",
+    "current_status": "Applied",
+    "is_active": false,
+    "notes": "Morbi non lectus.",
+    "company": {
+      "name": "Yodoo",
+      "industry": "Healthcare",
+      "hq_location": "Mbocayaty"
+    },
+    "job_posting": {
+      "title": "Community Outreach Specialist",
+      "type": "internship",
+      "pay_per_hour": 48,
+      "is_remote": false,
+      "job_board": {
+        "name": "Glassdoor",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2026-02-05T08:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "internship",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": 8,
+    "applied_date": "2025-05-10T07:00:00.000Z",
+    "current_status": "Offer",
+    "is_active": false,
+    "notes": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.",
+    "company": {
+      "name": "Dablist",
+      "industry": "AI Research",
+      "hq_location": "Heting"
+    },
+    "job_posting": {
+      "title": "Legal Assistant",
+      "type": "internship",
+      "pay_per_hour": 39,
+      "is_remote": false,
+      "job_board": {
+        "name": "LinkedIn",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-05-10T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-05-17T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-05-24T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2025-05-31T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-05-24T07:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": {
+      "compensation": 39,
+      "deadline": "2025-06-09T07:00:00.000Z",
+      "notes": "Generated test offer"
+    },
+    "contacts": [],
+    "tags": [
+      "internship",
+      "AI Research"
+    ]
+  },
+  {
+    "user_id": 9,
+    "applied_date": "2025-04-10T07:00:00.000Z",
+    "current_status": "Interviewing",
+    "is_active": false,
+    "notes": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst.",
+    "company": {
+      "name": "Yozio",
+      "industry": "Healthcare",
+      "hq_location": "Tambawel"
+    },
+    "job_posting": {
+      "title": "Environmental Tech",
+      "type": "full-time",
+      "pay_per_hour": 20,
+      "is_remote": true,
+      "job_board": {
+        "name": "Indeed",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-04-10T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-04-17T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-04-24T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-04-24T07:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "full-time",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": 10,
+    "applied_date": "2025-11-21T08:00:00.000Z",
+    "current_status": "Interviewing",
+    "is_active": true,
+    "notes": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "company": {
+      "name": "Flipopia",
+      "industry": "Technology",
+      "hq_location": "Armação"
+    },
+    "job_posting": {
+      "title": "Budget/Accounting Analyst IV",
+      "type": "co-op",
+      "pay_per_hour": 81,
+      "is_remote": false,
+      "job_board": {
+        "name": "Handshake",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-11-21T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-11-28T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-12-05T08:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-12-05T08:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "co-op",
+      "Technology"
+    ]
+  },
+  {
+    "user_id": 11,
+    "applied_date": "2025-04-10T07:00:00.000Z",
+    "current_status": "Interviewing",
+    "is_active": false,
+    "notes": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+    "company": {
+      "name": "Meetz",
+      "industry": "Retail",
+      "hq_location": "Katakwi"
+    },
+    "job_posting": {
+      "title": "Structural Analysis Engineer",
+      "type": "full-time",
+      "pay_per_hour": 91,
+      "is_remote": false,
+      "job_board": {
+        "name": "Glassdoor",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-04-10T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-04-17T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-04-24T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-04-24T07:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "full-time",
+      "Retail"
+    ]
+  },
+  {
+    "user_id": 12,
+    "applied_date": "2025-10-21T07:00:00.000Z",
+    "current_status": "Offer",
+    "is_active": false,
+    "notes": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "company": {
+      "name": "Jabbersphere",
+      "industry": "Retail",
+      "hq_location": "Yono"
+    },
+    "job_posting": {
+      "title": "Information Systems Manager",
+      "type": "full-time",
+      "pay_per_hour": 83,
+      "is_remote": false,
+      "job_board": {
+        "name": "Handshake",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-10-21T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-10-28T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-11-04T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2025-11-11T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-11-04T07:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": {
+      "compensation": 83,
+      "deadline": "2025-11-20T07:00:00.000Z",
+      "notes": "Generated test offer"
+    },
+    "contacts": [],
+    "tags": [
+      "full-time",
+      "Retail"
+    ]
+  },
+  {
+    "user_id": 13,
+    "applied_date": "2025-12-05T08:00:00.000Z",
+    "current_status": "Rejected",
+    "is_active": false,
+    "notes": "Integer a nibh.",
+    "company": {
+      "name": "Dabjam",
+      "industry": "Finance",
+      "hq_location": "Novokayakent"
+    },
+    "job_posting": {
+      "title": "Recruiter",
+      "type": "co-op",
+      "pay_per_hour": 33,
+      "is_remote": false,
+      "job_board": {
+        "name": "Company Website",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-12-05T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-12-12T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-12-19T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2025-12-26T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Rejected",
+        "changed_at": "2026-01-02T08:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "co-op",
+      "Finance"
+    ]
+  },
+  {
+    "user_id": 14,
+    "applied_date": "2025-07-21T07:00:00.000Z",
+    "current_status": "OA",
+    "is_active": true,
+    "notes": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+    "company": {
+      "name": "Gabcube",
+      "industry": "Technology",
+      "hq_location": "Lençóis Paulista"
+    },
+    "job_posting": {
+      "title": "Environmental Tech",
+      "type": "full-time",
+      "pay_per_hour": 77,
+      "is_remote": false,
+      "job_board": {
+        "name": "Indeed",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-07-21T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-07-28T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "full-time",
+      "Technology"
+    ]
+  },
+  {
+    "user_id": 15,
+    "applied_date": "2025-11-13T08:00:00.000Z",
+    "current_status": "Interviewing",
+    "is_active": false,
+    "notes": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
+    "company": {
+      "name": "Feedspan",
+      "industry": "AI Research",
+      "hq_location": "Nouvelle France"
+    },
+    "job_posting": {
+      "title": "Marketing Manager",
+      "type": "co-op",
+      "pay_per_hour": 50,
+      "is_remote": true,
+      "job_board": {
+        "name": "Handshake",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-11-13T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-11-20T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-11-27T08:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-11-27T08:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "co-op",
+      "AI Research"
+    ]
+  },
+  {
+    "user_id": 16,
+    "applied_date": "2025-05-20T07:00:00.000Z",
+    "current_status": "Offer",
+    "is_active": true,
+    "notes": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.",
+    "company": {
+      "name": "Teklist",
+      "industry": "Healthcare",
+      "hq_location": "Ystad"
+    },
+    "job_posting": {
+      "title": "Executive Secretary",
+      "type": "internship",
+      "pay_per_hour": 24,
+      "is_remote": false,
+      "job_board": {
+        "name": "Indeed",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-05-20T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-05-27T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-06-03T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2025-06-10T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-06-03T07:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": {
+      "compensation": 24,
+      "deadline": "2025-06-19T07:00:00.000Z",
+      "notes": "Generated test offer"
+    },
+    "contacts": [],
+    "tags": [
+      "internship",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": 17,
+    "applied_date": "2025-11-22T08:00:00.000Z",
+    "current_status": "Offer",
+    "is_active": true,
+    "notes": "Sed ante. Vivamus tortor.",
+    "company": {
+      "name": "Edgeify",
+      "industry": "Finance",
+      "hq_location": "Oujda"
+    },
+    "job_posting": {
+      "title": "Food Chemist",
+      "type": "full-time",
+      "pay_per_hour": 13,
+      "is_remote": false,
+      "job_board": {
+        "name": "Indeed",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-11-22T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-11-29T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-12-06T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2025-12-13T08:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-12-06T08:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": {
+      "compensation": 13,
+      "deadline": "2025-12-22T08:00:00.000Z",
+      "notes": "Generated test offer"
+    },
+    "contacts": [],
+    "tags": [
+      "full-time",
+      "Finance"
+    ]
+  },
+  {
+    "user_id": 18,
+    "applied_date": "2026-02-09T08:00:00.000Z",
+    "current_status": "Offer",
+    "is_active": true,
+    "notes": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "company": {
+      "name": "Kaymbo",
+      "industry": "Retail",
+      "hq_location": "Hayama"
+    },
+    "job_posting": {
+      "title": "Structural Engineer",
+      "type": "internship",
+      "pay_per_hour": 49,
+      "is_remote": true,
+      "job_board": {
+        "name": "LinkedIn",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2026-02-09T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2026-02-16T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2026-02-23T08:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2026-03-02T08:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2026-02-23T08:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": {
+      "compensation": 49,
+      "deadline": "2026-03-11T08:00:00.000Z",
+      "notes": "Generated test offer"
+    },
+    "contacts": [],
+    "tags": [
+      "internship",
+      "Retail"
+    ]
+  },
+  {
+    "user_id": 19,
+    "applied_date": "2025-12-26T08:00:00.000Z",
+    "current_status": "Applied",
+    "is_active": true,
+    "notes": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "company": {
+      "name": "Browsedrive",
+      "industry": "Technology",
+      "hq_location": "Diavatá"
+    },
+    "job_posting": {
+      "title": "Human Resources Assistant III",
+      "type": "internship",
+      "pay_per_hour": 47,
+      "is_remote": false,
+      "job_board": {
+        "name": "Handshake",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-12-26T08:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [],
+    "offer": null,
+    "contacts": [],
+    "tags": [
+      "internship",
+      "Technology"
+    ]
+  },
+  {
+    "user_id": 20,
+    "applied_date": "2025-10-04T07:00:00.000Z",
+    "current_status": "Offer",
+    "is_active": true,
+    "notes": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",
+    "company": {
+      "name": "Vidoo",
+      "industry": "Technology",
+      "hq_location": "Toktogul"
+    },
+    "job_posting": {
+      "title": "Registered Nurse",
+      "type": "full-time",
+      "pay_per_hour": 52,
+      "is_remote": true,
+      "job_board": {
+        "name": "LinkedIn",
+        "url": ""
+      }
+    },
+    "status_history": [
+      {
+        "status": "Applied",
+        "changed_at": "2025-10-04T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "OA",
+        "changed_at": "2025-10-11T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Interviewing",
+        "changed_at": "2025-10-18T07:00:00.000Z",
+        "notes": ""
+      },
+      {
+        "status": "Offer",
+        "changed_at": "2025-10-25T07:00:00.000Z",
+        "notes": ""
+      }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": "2025-10-18T07:00:00.000Z",
+        "outcome": "Passed",
+        "notes": "Generated test interview"
+      }
+    ],
+    "offer": {
+      "compensation": 52,
+      "deadline": "2025-11-03T07:00:00.000Z",
+      "notes": "Generated test offer"
+    },
+    "contacts": [],
+    "tags": [
+      "full-time",
+      "Technology"
+    ]
+  }
+]
