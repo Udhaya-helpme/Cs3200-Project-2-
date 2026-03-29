@@ -1,0 +1,125 @@
+[
+  {
+    "_id": { "$oid": "64a1f2b3c4d5e6f7a8b9c0d1" },
+    "name": "Udhaya Bhuvanesh",
+    "email": "bhuvanesh.u@northeastern.edu",
+    "university": "Northeastern University",
+    "major": "Computer Science",
+    "graduation_year": 2029,
+    "created_at": { "$date": "2026-01-10T00:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64a1f2b3c4d5e6f7a8b9c0d2" },
+    "name": "Xiaodi Wang",
+    "email": "wang.xia@northeastern.edu",
+    "university": "Northeastern University",
+    "major": "Computer Science",
+    "graduation_year": 2029,
+    "created_at": { "$date": "2026-01-12T00:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "74b2c3d4e5f6a7b8c9d0e1f2" },
+    "user_id": { "$oid": "64a1f2b3c4d5e6f7a8b9c0d1" },
+    "applied_date": { "$date": "2026-01-15T00:00:00Z" },
+    "current_status": "Interviewing",
+    "is_active": true,
+    "notes": "Referred by a friend on the team",
+    "company": {
+      "name": "Google",
+      "industry": "Technology",
+      "hq_location": "Mountain View, CA"
+    },
+    "job_posting": {
+      "title": "Software Engineering Intern",
+      "type": "internship",
+      "pay_per_hour": 50.00,
+      "is_remote": false,
+      "job_board": {
+        "name": "Handshake",
+        "url": "https://handshake.com"
+      }
+    },
+    "status_history": [
+      { "status": "Applied",      "changed_at": { "$date": "2026-01-15T00:00:00Z" }, "notes": "" },
+      { "status": "OA",           "changed_at": { "$date": "2026-01-22T00:00:00Z" }, "notes": "2hr coding assessment" },
+      { "status": "Interviewing", "changed_at": { "$date": "2026-02-01T00:00:00Z" }, "notes": "" }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": { "$date": "2026-02-05T14:00:00Z" },
+        "outcome": "Passed",
+        "notes": "Two LeetCode mediums, arrays and sliding window"
+      },
+      {
+        "round": 2,
+        "type": "Behavioral",
+        "scheduled_date": { "$date": "2026-02-12T10:00:00Z" },
+        "outcome": "Pending",
+        "notes": ""
+      }
+    ],
+    "offer": null,
+    "contacts": [
+      {
+        "name": "Sarah Kim",
+        "role": "Recruiter",
+        "email": "s.kim@google.com",
+        "linkedin_url": "https://linkedin.com/in/sarahkim"
+      }
+    ],
+    "tags": ["big tech", "SWE", "internship", "Bay Area"]
+  },
+  {
+    "_id": { "$oid": "74b2c3d4e5f6a7b8c9d0e1f3" },
+    "user_id": { "$oid": "64a1f2b3c4d5e6f7a8b9c0d1" },
+    "applied_date": { "$date": "2025-12-01T00:00:00Z" },
+    "current_status": "Offer",
+    "is_active": true,
+    "notes": "",
+    "company": {
+      "name": "ADIA Lab",
+      "industry": "Finance / AI Research",
+      "hq_location": "Abu Dhabi, UAE"
+    },
+    "job_posting": {
+      "title": "AI Research Intern",
+      "type": "internship",
+      "pay_per_hour": 35.00,
+      "is_remote": false,
+      "job_board": {
+        "name": "Company Website",
+        "url": "https://adialab.ae/careers"
+      }
+    },
+    "status_history": [
+      { "status": "Applied",      "changed_at": { "$date": "2025-12-01T00:00:00Z" }, "notes": "" },
+      { "status": "Interviewing", "changed_at": { "$date": "2025-12-20T00:00:00Z" }, "notes": "" },
+      { "status": "Offer",        "changed_at": { "$date": "2026-01-10T00:00:00Z" }, "notes": "Verbal offer received" }
+    ],
+    "interviews": [
+      {
+        "round": 1,
+        "type": "Technical",
+        "scheduled_date": { "$date": "2025-12-20T09:00:00Z" },
+        "outcome": "Passed",
+        "notes": "ML concepts, discussed ARIMA vs XGBoost project"
+      }
+    ],
+    "offer": {
+      "compensation": 35.00,
+      "deadline": { "$date": "2026-02-01T00:00:00Z" },
+      "notes": "Summer 2026, 10 weeks"
+    },
+    "contacts": [
+      {
+        "name": "Ahmed Al Mansoori",
+        "role": "Hiring Manager",
+        "email": "a.mansoori@adialab.ae",
+        "linkedin_url": ""
+      }
+    ],
+    "tags": ["AI", "research", "internship", "Abu Dhabi"]
+  }
+]
