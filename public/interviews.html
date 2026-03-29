@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Interview Rounds</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <a href="/">← Back to Home</a>
+    <h1>Interview Round Management</h1>
+
+    <div class="panel">
+      <h2 id="form-title">Add New Interview Round</h2>
+      <form id="interview-form">
+        <input type="hidden" id="round_id" />
+
+        <label>Application</label>
+        <select id="app_id" required></select>
+
+        <label>Round Type</label>
+        <input type="text" id="round_type" placeholder="e.g. Phone Screen, Technical, Final" />
+
+        <label>Scheduled Date</label>
+        <input type="date" id="scheduled_date" />
+
+        <label>Outcome</label>
+        <select id="outcome">
+          <option value="Pending">Pending</option>
+          <option value="Passed">Passed</option>
+          <option value="Failed">Failed</option>
+        </select>
+
+        <label>Notes</label>
+        <textarea id="notes" rows="3"></textarea>
+
+        <div class="button-row">
+          <button type="submit">Save</button>
+          <button type="button" id="cancel-edit" class="secondary">Cancel</button>
+        </div>
+      </form>
+    </div>
+
+    <div class="panel">
+      <h2>All Interview Rounds</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Application ID</th>
+            <th>Student</th>
+            <th>Company</th>
+            <th>Job Title</th>
+            <th>Round Type</th>
+            <th>Scheduled Date</th>
+            <th>Outcome</th>
+            <th>Notes</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="interviews-body"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="interviews.js"></script>
+</body>
+</html>

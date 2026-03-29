@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Applications</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <a href="/">← Back to Home</a>
+    <h1>Application Management</h1>
+
+    <div class="panel">
+      <h2 id="form-title">Add New Application</h2>
+      <form id="application-form">
+        <input type="hidden" id="app_id" />
+
+        <label>Student</label>
+        <select id="student_id" required></select>
+
+        <label>Job Posting</label>
+        <select id="job_id" required></select>
+
+        <label>Submission Date</label>
+        <input type="date" id="submission_date" />
+
+        <label>Status</label>
+        <select id="current_status">
+          <option value="">-- Select Status --</option>
+          <option value="Applied">Applied</option>
+          <option value="OA">OA</option>
+          <option value="Interviewing">Interviewing</option>
+          <option value="Offer">Offer</option>
+          <option value="Rejected">Rejected</option>
+          <option value="Withdrawn">Withdrawn</option>
+        </select>
+
+        <label>Notes</label>
+        <textarea id="notes" rows="3"></textarea>
+
+        <div class="button-row">
+          <button type="submit">Save</button>
+          <button type="button" id="cancel-edit" class="secondary">Cancel</button>
+        </div>
+      </form>
+    </div>
+
+    <div class="panel">
+      <h2>All Applications</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Student</th>
+            <th>Company</th>
+            <th>Job Title</th>
+            <th>Date</th>
+            <th>Status</th>
+            <th>Notes</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="applications-body"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="applications.js"></script>
+</body>
+</html>
